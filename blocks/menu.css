@@ -55,7 +55,6 @@
   overflow: hidden;
   display: flex;
   gap: 10px;
-  /* justify-content: space-between; */
 }
 .card__list-text {
   white-space: nowrap;
