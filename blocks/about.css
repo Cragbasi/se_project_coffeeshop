@@ -14,11 +14,13 @@
   background-color: #0a2850;
   position: relative;
   overflow: hidden;
+  padding-bottom: 173px;
+  display: flex;
 }
 
 .about__content {
+  margin: 0;
   max-width: 660px;
-  padding-bottom: 173px;
   margin-top: 119px;
   margin-left: auto;
   margin-right: 80px;
@@ -36,18 +38,11 @@
   z-index: 0;
 }
 .about__circle_animation_blurred {
-  background-color: #1878dc;
-  width: 426px;
-  height: 426px;
-  position: absolute;
-  top: -152px;
-  left: -129px;
-  border-radius: 50%;
-  z-index: 0;
   animation: circle-pulse 1.3s ease-in-out infinite alternate-reverse;
 }
 
 .about__title {
+  margin: 0;
   font-size: 44px;
   font-weight: 500;
   line-height: 52px;
@@ -55,12 +50,12 @@
   margin-left: 80px;
   color: white;
   max-width: 251px;
-  position: absolute;
   z-index: 1;
 }
 
 .about__paragraph {
-  font-family: "Noto Serif";
+  margin: 0;
+  font-family: "Noto Serif", "Times New Roman";
   font-size: 20px;
   line-height: 30px;
   margin-bottom: 20px;

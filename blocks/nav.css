@@ -1,10 +1,7 @@
 .nav {
   display: flex;
   justify-content: space-between;
-  margin: 0;
-  margin-left: 30px;
-  margin-top: 30px;
-  margin-right: 80px;
+  padding: 30px 80px 0 30px;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
@@ -32,6 +29,5 @@
 }
 
 .nav__link:hover {
-  color: #d35722;
   opacity: 0.5;
 }
