@@ -1,6 +1,15 @@
 # Triple Peaks Coffee Shop
 
-This is a webpage I created with HTML and CSS, based on a design brief.
+## 🖼️ Overview
+
+The webpage serves as a digital front door for the coffee shop, offering:
+
+- 📚 A welcoming introduction to the café and its mission
+- 📅 A **table booking form** with validation-ready fields
+- 📖 A curated list of **home-brew recipes** for coffee enthusiasts
+- ☕ A detailed **menu** featuring drinks and baked goods
+- 🕒 Operating hours and location info
+- 📱 Social media links for community engagement
 
 ## Project features
 
